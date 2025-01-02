@@ -1,0 +1,12 @@
+{
+  "name": "binance-trading-bot",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "dependencies": {
+    "node-binance-api": "^0.12.5",
+    "dotenv": "^16.0.3"
+  }
+}
